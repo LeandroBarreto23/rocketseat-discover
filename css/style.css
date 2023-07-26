@@ -32,6 +32,7 @@
 }
 
 body {
+  height: 100vh;
   font-size: 1.6rem;
   background:var(--bg-url) no-repeat center top/cover;
 }
